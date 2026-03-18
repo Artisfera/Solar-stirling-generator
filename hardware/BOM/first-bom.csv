@@ -1,0 +1,61 @@
+,Nazwa,Ilość,Cena jednostkowa,Wartość,Link,Notatka
+,Y&H MPPT,1,"79,00 zł","79,00 zł",https://allegro.pl/oferta/y-h-60a-mppt-12v-24v-solar-charge-regulator-z-podwojnym-portem-usb-lcd-17767876362,"Jeden z bardziej popularnych mppt na rynku. Myślę jednak że mało się sprawdzi, znaczna większość mppt zawiera tylko buck-converter obniżający napięcie dostosowujące je do akumulatora. Nie są w stanie jednak napięcia podwyższyć, ponieważ są używane głównie do PV które są wysoko napięciowe, a nasza prądnica jest niskonapięciowa przez wysokie kV, które nawet po przewinięciu silnika i tak będzie na tyle wysokie że napięcie będzie po prostu zbyt niskie, a mppt z opcią podwyższenia napięcia jest wręcz nie do kupienia za sensowne pieniądze i przez brak dostępności."
+,"sztuczne słóńce - lampa do kurzych jaj/terraria, bo chodzi o dużo podczerwieni",6,"38,00 zł","228,00 zł",https://allegro.pl/oferta/promiennik-lampa-grzewcza-czerw-175w-zarowka-kwoka-7277697966,"Jedyna dobrze dostępna do kupienia opcja ""sztucznego słońca"" z lamp podczerwonych"
+,,,,,,
+,Antena czasza 100cm,1,"265,00 zł","265,00 zł",https://allegro.pl/oferta/antena-satelitarna-stalowa-100cm-famaval-trx-el-czasza-hd-4k-grafit-13854146544,
+,Folia mylar 210x120cm,1,"26,99 zł","26,99 zł",https://allegro.pl/oferta/folia-odblaskowa-refleksyjna-mylar-diamond-growbox-210x120-cm-17411913372,
+,Klej montażowy w sprayu,1,"32,45 zł","32,45 zł",https://allegro.pl/oferta/klej-kontaktowy-spray-kon-b707-600-ml-13979333499,Posłuży do przyklejenia folii mylar do anteny.
+,,,,,, 
+,Akumulatorki Li-lon 21700,8,"27,69 zł","221,52 zł",https://batlit.pl/pl/p/Akumulator-Li-Ion-Samsung-INR21700-50G-3.6V-4000mAh-10A15A-N/618,"Z opcją dogrzewania niklowych blaszek, by zlutowanie było bardziej pewne. Jedno na zapas"
+,"Moduł BMS do akumulatorów Li-Ion 7S, 20A
+",1,"42,66 zł","42,66 zł",https://kamami.pl/moduly-bms-elektronika/1184667-modul-bms-do-akumulatorow-li-ion-7s-20a-5906623449613.html,
+,,,,,,
+,"Silnik BLDC 6374 170kV
+",1,"266,01 zł","266,01 zł",https://kamami.pl/silniki-bldc-bezszczotkowe/1186155-silnik-bldc-6374-170kv-5906623452774.html,"Dobry zapas mocy, brak konieczności przewijania, lecz nie jestem pewien czy przypadkiem cena nie jest zbyt wysoka więc zostawiam niżej tańszą alternatywę"
+,Silnik bezszczotkowy BLDC N3536 1000kV 2-4S,1,"109,84 zł","109,84 zł",https://kamami.pl/silniki-bldc-bezszczotkowe/1187551-mot0171-silnik-bezszczotkowy-bldc-n3536-1000kv-2-4s.html,"Tańszy, lecz przez zbyt wysoki kV konieczność przewijania co może być ciekawe."
+,Drut nawojowy 0.3mm,1,"58,90 zł","58,90 zł",https://allegro.pl/oferta/drut-nawojowy-0-3mm-200g-dne-ok-320mb-17371818881,dobry zapas jeśli na ponowne próby jeśli się nawinięcie nie powiedzie.
+,,,,"0,00 zł",,
+,"Dioda Schottky 60V 5A
+",10,"0,72 zł","7,20 zł",https://www.tme.eu/pl/details/sr560-yan/diody-schottky-tht/yangjie-technology/sr560/,Posłużą do wyprosotwania napięcia z prądnicy
+,Kondensator elektrolityczny 1mF 50V low-ESR,10,"4,98 zł","49,80 zł",https://www.tme.eu/pl/details/eeufm1h102/kondensatory-elektrolityczne-tht/panasonic/,"Do wygładzenia napięć za prostownikiem, "
+,"Kondensator ceramiczny 2,2uF 50V",10,"1,70 zł","17,00 zł",https://www.tme.eu/en/details/rder71h225k2k1h03b/mlcc-tht-capacitors/murata/,"Gaszenie szybkich szpilek za prostownikiem,"
+,Dioda TVS,6,"0,82 zł","4,94 zł",https://www.tme.eu/pl/details/1.5ke47ca-cdi/diody-tvs-tht-dwukierunkowe/cdil/1-5ke47ca/,
+,,,,,,
+,Kondensator elektrolityczny 22uF 50V low-ESR,10,"0,29 zł","2,90 zł",https://www.tme.eu/pl/details/eeufr1h220/kondensatory-elektrolityczne-tht/panasonic/,
+,Kondensator ceramiczny 1uF 100V,20,"0,77 zł","15,40 zł",https://www.tme.eu/pl/details/sr201c104kartr2/kondensatory-mlcc-tht/kyocera-avx/,
+,Tranzystor NPN BD139,5,"2,17 zł","10,85 zł",https://www.tme.eu/dk/en/details/bd139-10/npn-tht-transistors/stmicroelectronics/,Będzie pełnił rolę wtórnika emiterowego
+,Dioda zennera 12V 1W,2,"1,30 zł","2,60 zł",https://www.tme.eu/pl/details/1n4742a-dc/diody-zenera-tht/dc-components/1n4742a/,Posłuży do wtórnika emiterowego by ograniczyć napęcię podawane na sterowniki bramki mosfet do okolic 12V
+,Dławik drutowy 10uH,1,"11,02 zł","11,02 zł",https://www.tme.eu/pl/details/dtmss-20_0.010_20v/dlawiki/feryster/dtmss-20-0-010-20-v/,Zostanie użyty w przetwornicy boost 
+,Dioda prostownicza Schottky,2,"3,38 zł","6,76 zł",https://www.tme.eu/pl/details/stf30100-smc/diody-schottky-tht/smc-diode-solutions/stf30100/,
+,Sterownik bramki mosfet MCP1407-E/P,2,"5,66 zł","11,32 zł",https://www.tme.eu/en/details/mcp1407-e_p/mosfet-igbt-drivers/microchip-technology/,"Dobrze i sprawnie zadziała w roli kluczowania mosfeta w przetwornicy boost,"
+,Tranzystor N-MOSFET WMK030N06HG4WAYON,2,"4,24 zł","8,48 zł",https://www.tme.eu/pl/details/wmk030n06hg4-cyg/tranzystory-z-kanalem-n-tht/wayon/wmk030n06hg4/,Pełni rolę klucza do przetwornicy boost
+,Stabilizator napięcia LM7805,3,"1,64 zł","4,92 zł",https://www.tme.eu/pl/details/lm7805-cdi/stabilizatory-napiecia-nieregulowane/cdil/lm7805/,"Stabilizator napięcia do Arduino, myślałem nad zastosowaniem kolejnego wtórnika, lecz zbyt niestabilne wynosiłoby tam napięcie,"
+,Radiator aluminiowy FK237-SA220,4,"2,90 zł","11,60 zł",https://kamami.pl/radiatory-i-osprzet/314418-aluminiowy-radiator-czarny-19-x-126-x-126-montaz-na-wcisk-do-obudow-to220.html,
+,Thermopad TO220,4,"1,32 zł","5,28 zł",https://kamami.pl/termopady-tasmy-termoprzewodzace/1184263-ag-thermopad-to220-18x13x03-15-wmk-tasma-termoprzewodzaca-bez-kleju-5901764325345.html,
+,Czujnik prądu ACS712 20A,1,"13,90 zł","13,90 zł",https://botland.com.pl/czujniki-pradu/14275-czujnik-pradu-acs712-20a-5903351242103.html,Niezbędny do wyliczeń algorytmu (P&O) 
+,"Rezystor 33kΩ ±0,1%",2,"2,03 zł","4,06 zł",https://www.tme.eu/pl/details/mf006bb3302a10/rezystory-tht/royalohm/,"Oba rezystory posłużą do stworzenia dzielnika napięcia pełniącego rolę miernika napięcia, również niezbędnego do P&O"
+,"Rezystor 4,64kΩ ±1%",5,"0,53 zł","2,65 zł",https://www.tme.eu/pl/details/mf0207fte-4k64/rezystory-tht/yageo/mf0207fte52-4k64/,
+,,,,,,
+,Złącze bezpiecznika,2,"4,50 zł","9,00 zł",https://botland.com.pl/bezpieczniki/5472-zlacze-bezpiecznika-z-oslona-ptf-78-5x20mm-szare-5szt-5904422357115.html,
+,Zestaw bezpieczników,1,"34,90 zł","34,90 zł",https://botland.com.pl/bezpieczniki/22264-zestaw-bezpiecznikow-wta-5x20mm-02a-20a-100szt-justpi-5904422383541.html,
+,Listwa barierowa 2-Pin,1,"5,90 zł","5,90 zł",https://botland.com.pl/zlacza-montazowe/10954-listwa-barierowa-do-pcb-2-pinowa-raster-85mm-10szt-5904422317157.html,
+,Konektor widełkowy M3,2,"2,50 zł","5,00 zł",https://allegro.pl/oferta/konektor-widelkowy-izolowany-fi-3-m3-10szt-10019742104,
+,Zestaw rurek termokurczliwych,1,"9,95 zł","9,95 zł",https://botland.com.pl/rurki-termokurczliwe/5375-zestaw-rurek-termokurczliwych-100szt-rozne-kolory-5901969414615.html,
+,Zestaw rezystorów,1,"39,90 zł","39,90 zł",https://botland.com.pl/zestawy-rezystorow/813-zestaw-rezystorow-tht-14w-opisany-2640szt-5903351241076.html,
+,"przewód silikonowy SIHF 2x2,5 ",2,"10,75 zł","21,50 zł",https://allegro.pl/oferta/kabel-przewod-silikonowy-sihf-2x2-5-linka-do-180-c-16360322375,
+,"przewód silikonowy SIHF 2x1,5 ",2,"6,40 zł","12,80 zł",https://allegro.pl/oferta/kabel-przewod-silikonowy-sihf-2x1-5-linka-do-180-c-7263558926,
+,Wentylator osiowy,1,"20,90 zł",,https://kamami.pl/wentylatory/1184482-wentylator-osiowy-sunon-24vdc-40x40x20mm-1301m3h-21dba.html,
+,,,,,,
+,Uszczelniacz wysokotemperaturowy ,1,"37,99 zł","37,99 zł",https://allegro.pl/oferta/cx-80-uszczelniacz-kominkowy-300ml-ognioodporna-masa-uszczelniajaca-x2-16772596883,
+,Farba żaroodporna czarna,1,"23,99 zł","23,99 zł",https://allegro.pl/oferta/spray-zaroodporny-czarny-mat-400ml-champion-13264473647,Posłuży do pokrycia cylindra nagrzewanego promieniami słonecznymi
+,Wałek aluminiowy 60x50mm,2,"28,00 zł","56,00 zł",https://allegro.pl/oferta/pret-aluminiowy-pa6-fi-60-mm-5-cm-15176557154,Zostanie użyty do zrobienia tłoków
+,Rura nierdzewna 60mm wew.,1,"82,90 zł","82,90 zł",https://allegro.pl/oferta/rura-nierdzewna-kwasowka-63mm-1-5mm-1m-stal-304-16810225149,Zostanie użyty do zrobienia cylindra
+,Łożysko igiełkowe 10mm wew.,6,"5,99 zł","35,94 zł",https://allegro.pl/oferta/lozysko-do-tloka-pily-stihl-017-018-ms170-ms180-10-mm-17684731824,Zostanie użyty do łożyskowania 
+,Pręt nierdzewny fi10,1,"21,99 zł","21,99 zł",https://allegro.pl/oferta/pret-nierdzewny-fi-10-mm-odcinek-100-cm-drut-kwasoodporny-17398913736,"Użyty zostanie do tloków, korbowód, i łączenia na kole zamachowym"
+,Blacha z stali nierdzewnej 2mm 20x20cm,2,"7,99 zł","15,98 zł",https://allegro.pl/oferta/blacha-stal-nierdzewna-2mm-na-wymiar-13440944420,Posłuży do zaślepienia cylindrów 
+,Blacha miedziana 0.5mm 10x10cm,6,"5,90 zł","35,40 zł",https://allegro.pl/oferta/blacha-miedziana-0-5x100x100-m1ez4-12988388720,Posłuży do zrobienia żeberek chłodzących
+,Wąż siliknowy zbrojny 1m 20x28,1,"35,00 zł","35,00 zł",https://allegro.pl/oferta/waz-silikonowy-zbrojony-20mm-niebieski-20x28-15377467006,Posłuży do połączenia cylindru zilmnego z ciepłym
+,Króciec nierdzewny 20mm,2,"15,09 zł","30,18 zł",https://allegro.pl/oferta/zlaczka-do-weza-nierdzewna-3-4-na-waz-20-mm-krociec-nierdzewny-13848922170,
+,Łożysko samonastawne 10mm,2,"8,69 zł","17,38 zł",https://allegro.pl/oferta/lozysko-samonastawne-kfl10-kfl000-fi10mm-v-slot-12812025832,Posłuży do zamontowania koła zamachowego
+,Honownica 32-89mm,1,"28,29 zł","28,29 zł",https://allegro.pl/oferta/yato-honownica-do-honowania-cylindrow-32-89mm-7785539688,Niezbędna by równomiernie wypolerować cylinder w stylu crosshatch
+,Filament ASA 1kg biały,1,"94,05 zł","94,05 zł",https://allegro.pl/oferta/filament-3d-rosa3d-refill-asa-1-75mm-white-bialy-1kg-1-75mm-17432593637,
